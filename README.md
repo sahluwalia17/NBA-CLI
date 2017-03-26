@@ -13,4 +13,5 @@ As we still are in development, we at this time are not able to create an execut
 If you take the time to install these modules, you will have access to a beautifully crafted CLI with custom colors that will elevate the 
 user experience. We provide fast and reliable information that will never fail you!
 
+Huge shoutout to http://stats.nesn.com/nba/ for providing us with reliable statistics!
 - Firetrix 2017
